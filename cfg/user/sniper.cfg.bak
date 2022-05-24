@@ -1,0 +1,13 @@
+exec "user/reset.cfg"
+cl_interp 0.033
+bind "mouse3" "+attack3"
+bind "mouse1" "+attack"
+bind "mouse2" "+attack2"
+bind "MOUSE4" "+attack"
+bind "mouse5" "+use_action_slot_item"
+viewmodel_fov 90
+cl_crosshair_scale 28.5
+sensitivity 3.2
+zoom_sensitivity_ratio .866666
+"cl_crosshair_red 255; cl_crosshair_green 255; cl_crosshair_blue 255"
+// ----------------------------------------------------------------------------
